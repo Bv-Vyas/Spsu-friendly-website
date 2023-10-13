@@ -6,5 +6,5 @@ problem statement - Design a Student Friendly, Dynamic and Responsive website fo
 Team Members :-
 1. Bhawesh Vyas
 2. Darshana Soni
-3. suhani agrawal
-4. Bhavik 
+3. Suhani Agrawal
+4. Bhavik Upadhaya
