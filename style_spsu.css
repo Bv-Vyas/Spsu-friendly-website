@@ -112,6 +112,25 @@ body {
 }
 
 
+/* Student-section Page */
+.student-section_main_title{
+    position: sticky;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-color: #509ff3;
+    text-shadow: 1px 1px 1px gray;
+}
+
+.help_img_div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+
 
 /* Footer */
 footer {
